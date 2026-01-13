@@ -1,0 +1,7 @@
+{
+  "name": "Mir Rabbi Hossain - Management Suite",
+  "description": "A professional, Material Design 3 inspired Android-style management application for income, expenses, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
